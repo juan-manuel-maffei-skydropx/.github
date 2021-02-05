@@ -15,3 +15,6 @@
 - [ ] My changes generate no new warnings
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
+
+# Deploy considerations
+🚀 Explain if there is something to consider before or while it's deploying to production. For example enviroment variables, scripts to run, etc.
