@@ -17,4 +17,4 @@
 - [ ] New and existing unit tests pass locally with my changes
 
 # Deploy considerations
-🚀 Explain if there is something to consider before or while it's deploying to production. For example enviroment variables, scripts to run, etc.
+🚀 Explain if there is something to consider before or while it's deploying to production. For example environment variables, scripts to run, etc.
