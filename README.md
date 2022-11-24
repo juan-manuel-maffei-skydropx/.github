@@ -1,2 +1,2 @@
 # .github
-Default health files for SkydropX organization
+Default health files for Skydropx organization
