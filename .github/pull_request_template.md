@@ -1,20 +1,25 @@
-# Description
-🧐. Please include relevant motivation and context.
+# Descripción general
 
-🧑‍💻. Please include a summary of the change and which issue is fixed. 
+**Tipo de Cambio**
+- [ ] Refactor de Código
+- [ ] Actualización de Gema
+- [ ] Creación de Modelo
+- [ ] Otro. Especificar.
 
-📸.  Include a relevant screenshot if applicable.
+**Descripción del Cambio[^1]**
 
 
-# Checklist:
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
+# QA
+**Evidencias del desarrollador[^2]**
 
-# Deploy considerations
-🚀 Explain if there is something to consider before or while it's deploying to production. For example environment variables, scripts to run, etc.
+**Consideraciones para QA [^3]**
+- [ ] Requiere pruebas manuales de algún módulo. Especificar: 
+- [ ] Requiere realizar regresión completa.
+
+
+
+[^1]: Incluir una breve descripción del cambio realizado, qué archivos o partes del sistema se vieron afectados, y el propósito del cambio.
+[^2]: Agregar screenshots y evidencias de pruebas.
+[^3]: Selecciona lo que aplique e indica cualquier información relevante.
+
